@@ -24,8 +24,8 @@ When you are on the Remix website, click the "+" icon in the left sidebar to sta
 contract MyToken {
 
     // public variables here
-   string public tokenName = "CHLOIE";
-   string public tokenAbbrv = "CHL";
+   string public tokenName = "Eleazar";
+   string public tokenAbbrv = "Lzr";
    uint public totalSupply = 0;
 
     // mapping variable here
