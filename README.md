@@ -1,10 +1,10 @@
-# MY TOKEN ETH
+# MY TOKEN ETH SOLIDITY
 
-This Solidity program is user input program where the user will add tokens and subtract tokens in which user can also monitor the balances.
+This Solidity program will show how mint, burn and totalSupply in the NFT Token. It can help the other people to have knowledge about it. 
 
 ## Description
 
-Written in Solidity, a programming language for creating smart contracts for the Ethereum blockchain, this application is a straightforward contract. This program can help the future IT Students to develop even more complex code that can function very well.
+Solidity an object-oriented programming language created specifically by the Ethereum Network team for constructing and designing smart contracts on Blockchain platforms.
 
 ## Getting Started
 
